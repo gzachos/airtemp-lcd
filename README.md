@@ -5,6 +5,10 @@
 This program uses a DS18B20 waterproof temperature sensor to monitor the air temperature
 and display it in an HD44780 LCD 16x2 display.
 
+## Software
+
+Developed using the [Wiring Pi](http://wiringpi.com/) GPIO interface library.
+
 ## Hardware
 
  - Raspberry Pi 3 Model B Rev 1.2

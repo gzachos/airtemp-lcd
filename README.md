@@ -41,8 +41,7 @@ root@rpi3 ~ $ make clean      # Remove the .elf file from current dir
 
 The ```make``` and ```make install``` targets will respectively compile ```airtemp-lcd.c```
 and install ```airtemp-lcd.elf``` (compilation product) under ```/root/bin/```. In case you
-want to choose a different directory modify the content of variable ```TARGETDIR``` in
-```Makefile```.
+want to choose a different directory modify the content of variable ```TARGETDIR``` in ```Makefile```.
 
 ## Execution using Crontab
 

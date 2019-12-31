@@ -46,9 +46,9 @@ want to choose a different directory modify the content of variable ```TARGETDIR
 
 ## Execution using Crontab
 
-`Crontab` allows you to automatically execute a comand or a shell script at given intervals.
+```Crontab``` allows you to automatically execute a comand or a shell script at given intervals.
 
-Run `crontab -e` to edit current crontab file. The very first time you will be prompted to choose the editor of your choice.
+Run ```crontab -e``` to edit current crontab file. The very first time you will be prompted to choose the editor of your choice.
 
 Assuming that you didn't modify the installation dir, add the following entry at the end of the file:
 ```bash

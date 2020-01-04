@@ -55,3 +55,8 @@ Assuming that you didn't modify the installation dir, add the following entry at
 ```
 in order for ```airtemp-lcd.elf``` to be executed every time the raspberry pi boots. Save changes and exit.
 
+## Developer
+[George Z. Zachos](https://gzachos.com)
+
+## Licence
+[GNU GENERAL PUBLIC LICENSE Version 2, June 1991](LICENSE)
